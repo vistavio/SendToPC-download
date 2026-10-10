@@ -12,7 +12,7 @@ Companion program for the **Send To PC** Android app: barcodes and QR codes scan
 
 Requirements: Windows 10/11, phone and PC on the same Wi-Fi network.
 
-Uninstall: run `Kaldir.bat` from the release (as administrator).
+Uninstall: right-click the tray icon → **Uninstall**. The program, its autostart entry, firewall rule and all settings are removed.
 
 Privacy policy: https://vistavio.github.io/SendToPC-privacy/
 
@@ -32,6 +32,6 @@ Privacy policy: https://vistavio.github.io/SendToPC-privacy/
 
 Gereksinimler: Windows 10/11, telefon ve bilgisayar aynı Wi-Fi ağında.
 
-Kaldırma: Release'teki `Kaldir.bat` dosyasını (yönetici olarak) çalıştırın.
+Kaldırma: tepsi simgesine sağ tıklayın → **Kaldır**. Program, otomatik başlatma kaydı, güvenlik duvarı kuralı ve tüm ayarlar silinir.
 
 Gizlilik politikası: https://vistavio.github.io/SendToPC-privacy/
