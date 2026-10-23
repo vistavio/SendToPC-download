@@ -10,9 +10,12 @@ Companion program for the **Send To PC** Android app: barcodes and QR codes scan
 3. Approve the administrator prompt. The program installs itself, adds a firewall rule for your local network and starts automatically with Windows.
 4. A green barcode icon appears in the system tray. Right-click it → **Pair Phone**, and scan the QR code with the Send To PC app.
 
+## Send files between computers
+Computers running Send To PC can send files to each other on the same network. Right-click the tray icon → **Change my name…** to set the name others see. To send, right-click a file or folder in Explorer → **Send to → Send To PC** (Windows 11: "Show more options"), or use **Send files…** in the tray menu. The receiver must accept; files are saved in **Downloads\Send To PC**. Files go directly between the computers over your local network.
+
 Requirements: Windows 10/11, phone and PC on the same Wi-Fi network.
 
-Uninstall: right-click the tray icon → **Uninstall**. The program, its autostart entry, firewall rule and all settings are removed.
+Uninstall: right-click the tray icon → **Uninstall**. The program, its autostart entry, firewall rule and all settings are removed; received files are kept.
 
 Privacy policy: https://vistavio.github.io/SendToPC-privacy/
 
@@ -30,8 +33,11 @@ Privacy policy: https://vistavio.github.io/SendToPC-privacy/
 3. Yönetici izni sorusunu onaylayın. Program kendini kurar, yerel ağ için güvenlik duvarı kuralı ekler ve Windows açılışında otomatik başlar.
 4. Sistem tepsisinde yeşil bir barkod simgesi görünür. Sağ tıklayıp **Telefonu Eşle**'yi seçin ve QR kodu Send To PC uygulamasıyla okutun.
 
+## Bilgisayarlar arası dosya gönderimi
+Send To PC kurulu bilgisayarlar aynı ağda birbirine dosya gönderebilir. Diğerlerinin sizi göreceği adı tepsi simgesi → **Adımı değiştir…** ile yazın. Göndermek için Gezgin'de dosya veya klasöre sağ tıklayın → **Gönder → Send To PC** (Windows 11: "Diğer seçenekleri göster") ya da tepsiden **Dosya gönder…**. Alıcı kabul etmelidir; dosyalar **İndirilenler\Send To PC** klasörüne kaydedilir. Dosyalar yerel ağınız üzerinden doğrudan bilgisayardan bilgisayara gider.
+
 Gereksinimler: Windows 10/11, telefon ve bilgisayar aynı Wi-Fi ağında.
 
-Kaldırma: tepsi simgesine sağ tıklayın → **Kaldır**. Program, otomatik başlatma kaydı, güvenlik duvarı kuralı ve tüm ayarlar silinir.
+Kaldırma: tepsi simgesine sağ tıklayın → **Kaldır**. Program, otomatik başlatma kaydı, güvenlik duvarı kuralı ve tüm ayarlar silinir; alınan dosyalar silinmez.
 
 Gizlilik politikası: https://vistavio.github.io/SendToPC-privacy/
