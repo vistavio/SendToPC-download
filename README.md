@@ -11,7 +11,9 @@ Companion program for the **Send To PC** Android app: barcodes and QR codes scan
 4. A green barcode icon appears in the system tray. Right-click it → **Pair Phone**, and scan the QR code with the Send To PC app.
 
 ## Send files between computers
-Computers running Send To PC can send files to each other on the same network. Right-click the tray icon → **Change my name…** to set the name others see. To send, right-click a file or folder in Explorer → **Send to → Send To PC** (Windows 11: "Show more options"), or use **Send files…** in the tray menu. The receiver must accept; files are saved in **Downloads\Send To PC**. Files go directly between the computers over your local network.
+Computers running Send To PC can send files to each other on the same network. Right-click the tray icon → **Change my name…** to set the name others see. To send, right-click a file or folder in Explorer → **Send to → Send To PC** (Windows 11: "Show more options"), or use **Send files…** in the tray menu. The receiver must accept; files are saved in **Downloads\Send To PC**. Files go directly between the computers over your local network. To pick the person first: tray → **People on the network…** → right-click a person → **Send files…** / **Send folder…**.
+
+**Update:** tray → **Check for updates…** opens the download page; the new version installs over the old one.
 
 Requirements: Windows 10/11, phone and PC on the same Wi-Fi network.
 
@@ -34,7 +36,9 @@ Privacy policy: https://vistavio.github.io/SendToPC-privacy/
 4. Sistem tepsisinde yeşil bir barkod simgesi görünür. Sağ tıklayıp **Telefonu Eşle**'yi seçin ve QR kodu Send To PC uygulamasıyla okutun.
 
 ## Bilgisayarlar arası dosya gönderimi
-Send To PC kurulu bilgisayarlar aynı ağda birbirine dosya gönderebilir. Diğerlerinin sizi göreceği adı tepsi simgesi → **Adımı değiştir…** ile yazın. Göndermek için Gezgin'de dosya veya klasöre sağ tıklayın → **Gönder → Send To PC** (Windows 11: "Diğer seçenekleri göster") ya da tepsiden **Dosya gönder…**. Alıcı kabul etmelidir; dosyalar **İndirilenler\Send To PC** klasörüne kaydedilir. Dosyalar yerel ağınız üzerinden doğrudan bilgisayardan bilgisayara gider.
+Send To PC kurulu bilgisayarlar aynı ağda birbirine dosya gönderebilir. Diğerlerinin sizi göreceği adı tepsi simgesi → **Adımı değiştir…** ile yazın. Göndermek için Gezgin'de dosya veya klasöre sağ tıklayın → **Gönder → Send To PC** (Windows 11: "Diğer seçenekleri göster") ya da tepsiden **Dosya gönder…**. Alıcı kabul etmelidir; dosyalar **İndirilenler\Send To PC** klasörüne kaydedilir. Dosyalar yerel ağınız üzerinden doğrudan bilgisayardan bilgisayara gider. Önce kişiyi seçmek için: tepsi → **Ağdaki kişiler…** → kişiye sağ tık → **Dosya gönder…** / **Klasör gönder…**.
+
+**Güncelleme:** tepsi → **Güncellemeleri kontrol et…** indirme sayfasını açar; yeni sürüm eskisinin üzerine kurulur.
 
 Gereksinimler: Windows 10/11, telefon ve bilgisayar aynı Wi-Fi ağında.
 
